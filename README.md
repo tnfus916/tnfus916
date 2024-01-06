@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/tnfus916/tnfus916/assets/83868210/0d14438b-ccaa-4ee9-b5d1-4d6f7a43e6cd)### Hi there 👋
 
 <!--
 **tnfus916/tnfus916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 <!-- 사용 가능 언어 -->
 <h3 align="center">💬 Languages 💬</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
 </div>
 
 <!-- 기술 스택 -->
@@ -52,14 +53,7 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 
 ---
@@ -68,9 +62,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=20232a" />&nbsp
 </div>
 
 ---
@@ -97,6 +89,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; width: 100%;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=tnfus916&show_icons=true&theme=algolia" width="48%" />
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfus916&layout=compact&theme=dark" width="48%" />
