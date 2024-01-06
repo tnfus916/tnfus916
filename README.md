@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 <h2>⌨️My Blog</h2>
-<a href="*https://velog.io/@tnfus916/posts" ><img src="https://img.shields.io/badge/Velog-26EDB2.svg?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
+<a href="https://velog.io/@tnfus916/posts"><img src="https://img.shields.io/badge/Velog-26EDB2.svg?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
 
 <br><br>
 <!-- GitHub Stats -->
