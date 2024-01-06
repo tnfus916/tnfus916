@@ -12,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- 헤더 -->
 <h2>Suryun Park</h2>
 
+<br>
+<br>
 
 <!-- 기술 스택 -->
-<br>
 <h3>👩‍💻Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
