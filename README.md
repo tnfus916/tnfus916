@@ -73,13 +73,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 <div align="center"> <h4>디자인</h4>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center"> <h4>IDE</h4>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
 
@@ -87,10 +85,9 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; width: 100%;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
-    <img src="https://github-readme-stats.vercel.app/api?username=tnfus916&show_icons=true&theme=algolia" width="48%" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=tnfus916&show_icons=true&theme=default#gh-light-mode-only" width="48%" /> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfus916&layout=compact&theme=dark" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfus916&layout=compact&theme=light" width="48%" />
     </a>
   </div>
 </div>
