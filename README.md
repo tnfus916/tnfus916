@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-<h2>Suryun Park</h2>
-
-<br>
-<br>
+<h2>Welcome to Suryun Park's github!</h2>
 
 <!-- 기술 스택 -->
 <h3>👩‍💻Tech Stack</h3>
@@ -32,7 +29,6 @@ Here are some ideas to get you started:
  
 </div>
 
-----
 <!-- 도구 -->
 <br>
 <h3>🛠Tools</h3>
@@ -46,7 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
----
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; width: 100%;">
