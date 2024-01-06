@@ -12,27 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 헤더 -->
+<h2>Suryun Park</h2>
 
-
-
-<!--
-**Chochanguk/Chochanguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- 기술 스택 -->
 <br>
-<h3>Tech Stack</h3>
+<h3>👩‍💻Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -44,7 +30,7 @@ Here are some ideas to get you started:
  
 </div>
 
----
+----
 <!-- 도구 -->
 <br>
 <h3>🛠Tools</h3>
@@ -60,8 +46,8 @@ Here are some ideas to get you started:
 
 ---
 <!-- GitHub Stats -->
-<div align="center" style="display: flex; flex-direction: column;">
-  <div style="display: flex; align-items:center; width: 100%;">
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex; width: 100%;">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=tnfus916&show_icons=true&theme=default#gh-light-mode-only" width="48%" /> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfus916&layout=compact&theme=light" width="48%" />
