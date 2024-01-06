@@ -1,5 +1,3 @@
-![image](https://github.com/tnfus916/tnfus916/assets/83868210/0d14438b-ccaa-4ee9-b5d1-4d6f7a43e6cd)### Hi there 👋
-
 <!--
 **tnfus916/tnfus916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
