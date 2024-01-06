@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/reactnative-#61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react%20native-#61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 
