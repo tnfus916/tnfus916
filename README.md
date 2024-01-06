@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br><br>
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column;">
-  <div style="display: flex; width: 100%;">
+  <div style="display: flex; width: 50%;">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=tnfus916&show_icons=true&theme=default#gh-light-mode-only" width="48%" /> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfus916&layout=compact&theme=light" width="48%" />
