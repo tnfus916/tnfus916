@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <h2>⌨️My Blog</h2>
 <a href="https://velog.io/@tnfus916/posts"><img src="https://img.shields.io/badge/Velog-26EDB2.svg?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
+<a href="https://subaks.tistory.com/category/%EC%BD%94%ED%85%8C%20%EC%A4%80%EB%B9%84"><img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white" /></a>&nbsp
 
 <br><br>
 <!-- GitHub Stats -->
