@@ -36,6 +36,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<!-- 기술 스택 -->
+<h2>👩‍💻Currently Learning..</h2>
+<div>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-3178C6?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
+</div>
+
 <h2>⌨️My Blog</h2>
 <a href="https://velog.io/@tnfus916/posts"><img src="https://img.shields.io/badge/Velog-26EDB2.svg?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
 <a href="https://subaks.tistory.com/category/%EC%BD%94%ED%85%8C%20%EC%A4%80%EB%B9%84"><img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white" /></a>&nbsp
