@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-3178C6?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/NextJS-3178C6?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
 </div>
 
 <h2>⌨️My Blog</h2>
